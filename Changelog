@@ -41,8 +41,25 @@
 
 
 # Feburary-7-2025
-# Making a customer recode adding app using crud
 
+##Completing the remaing put and delete
+
+# Making a customer recode adding app using mongo db 
+###In this app you can do
+##add customer recode
+##get all recode
+##delete recode
+##update recode
+ 
 
 #### Here is my Github Repositry : https://github.com/kashershahzad/customerRecode-mongodb
-#### Here is the live URL : https://tenstack-crud.vercel.app/
+#### Here is the live URL : https://customer-recode-mongodb.vercel.app/
+
+
+
+# Feburary-10-2025
+## Using authentication in project with auth js
+## MAking a sign in page and Log in page in customer recode app
+
+#### Here is my Github Repositry : https://github.com/kashershahzad/authentication
+#### Here is the live URL : https://authentication-liard-iota.vercel.app/
