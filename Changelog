@@ -57,3 +57,13 @@
 
 #### Here is my Github Repositry : https://github.com/kashershahzad/authentication
 #### Here is the live URL : https://authentication-liard-iota.vercel.app/
+
+
+
+# Feburary-10-2025
+## Understaning signin authentication
+## Making a session that user login with jwt token store in cookies
+## Making a middleware that protects my route
+
+#### Here is my Github Repositry : https://github.com/kashershahzad/auth-session-middleware
+#### Here is the live URL : https://auth-session-middleware.vercel.app/
