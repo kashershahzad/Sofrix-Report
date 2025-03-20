@@ -1,171 +1,152 @@
-# Feburary-3-2025
-# I have develop Navbar , Hero Section and 3rd Section 
-## These sctions are completly Responsive and According to the figma file
-### I use Next js and tailwind for Css
-
-#### Here is my Github Repositry https://github.com/kashershahzad/Assement-Wrok
-
+## Feburary-3-2025
+-- I have develop Navbar , Hero Section and 3rd Section 
+-- These sctions are completly Responsive and According to the figma file
+-- I use Next js and tailwind for Css
+-- Here is my Github Repositry https://github.com/kashershahzad/Assement-Wrok
 
 
-# Feburary-4-2025 
-# I have completed my Assememt project Today according to Figma file
-## I made made 5 Sections
-### I have made A Contact us page
-#### This is completly Responsive according to Figma file
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/Assement-Wrok
-#### Here is the live URL : https://sofix-assement-wrok.vercel.app/
-
+## Feburary-4-2025 
+-- I have completed my Assememt project Today according to Figma file
+-- I made made 5 Sections
+-- I have made A Contact us page
+-- This is completly Responsive according to Figma file
+-- Here is my Github Repositry : https://github.com/kashershahzad/Assement-Wrok
+-- Here is the live URL : https://sofix-assement-wrok.vercel.app/
 
 
-# Feburary-5-2025
-# I have completed Crud app using tanstack 
-## I pratice some fake Get api of tanstack
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/tenstack_crud
-#### Here is the live URL : https://tenstack-crud.vercel.app/
-
+## Feburary-5-2025
+-- I have completed Crud app using tanstack 
+-- I pratice some fake Get api of tanstack
+-- Here is my Github Repositry : https://github.com/kashershahzad/tenstack_crud
+-- Here is the live URL : https://tenstack-crud.vercel.app/
 
 
-# Feburary-6-2025
-# Connecting database to backend
-## Sending data to database and reciving Response by making a POST api
-### Getting data from database by making a GET api
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/curd-prisma-db-tenstack
-#### Here is the live URL : https://tenstack-crud.vercel.app/
-
+## Feburary-6-2025
+-- Connecting database to backend
+-- Sending data to database and reciving Response by making a POST api
+-- Getting data from database by making a GET api
+-- Here is my Github Repositry : https://github.com/kashershahzad/curd-prisma-db-tenstack
+-- Here is the live URL : https://tenstack-crud.vercel.app/
 
 
-# Feburary-7-2025
-##Completing the remaing put and delete
-# Making a customer recode adding app using mongo db 
-###In this app you can do
-##add customer recode
-##get all recode
-##delete recode
-##update recode 
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/customerRecode-mongodb
-#### Here is the live URL : https://customer-recode-mongodb.vercel.app/
-
+## Feburary-7-2025
+-- Completing the remaing put and delete
+-- Making a customer recode adding app using mongo db 
+-- In this app you can do
+-- add customer recode
+-- get all recode
+-- delete recode
+-- update recode 
+-- Here is my Github Repositry : https://github.com/kashershahzad/customerRecode-mongodb
+-- Here is the live URL : https://customer-recode-mongodb.vercel.app/
 
 
-# Feburary-10-2025
-## Using authentication in project with auth js
-## MAking a sign in page and Log in page in customer recode app
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/authentication
-#### Here is the live URL : https://authentication-liard-iota.vercel.app/
-
+## Feburary-10-2025
+-- Using authentication in project with auth js
+-- MAking a sign in page and Log in page in customer recode app
+-- Here is my Github Repositry : https://github.com/kashershahzad/authentication
+-- Here is the live URL : https://authentication-liard-iota.vercel.app/
 
 
-# Feburary-11-2025
-## Understaning signin authentication
-## Making a session that user login with jwt token store in cookies
-## Making a middleware that protects my route
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/auth-session-middleware
-#### Here is the live URL : https://auth-session-middleware.vercel.app/
-
-
-# Feburary-12-2025
-## Understaning Iron session for creating session and storing cookies
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/iron-session
-#### Here is the live URL : https://iron-session-eta.vercel.app/
-
-# Feburary-13-2025
-## Making an App that register user and sign in
-## Using Middleware to protect route 
-## Using Iron session to store session in cookies
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/iron-session-auth-middleware-prisma-mongodb
-#### Here is the live URL : https://iron-session-auth-middleware-prisma-mongodb.vercel.app/
+## Feburary-11-2025
+-- Understaning signin authentication
+-- Making a session that user login with jwt token store in cookies
+-- Making a middleware that protects my route
+-- Here is my Github Repositry : https://github.com/kashershahzad/auth-session-middleware
+-- Here is the live URL : https://auth-session-middleware.vercel.app/
 
 
-# Feburary-14-2025
-## Starting a new project of Full Stack Job Listing App
-https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/edit?tab=t.0
-## MAking signup signin and landing page
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/iron-session
+## Feburary-12-2025
+-- Understaning Iron session for creating session and storing cookies
+-- Here is my Github Repositry : https://github.com/kashershahzad/iron-session
+-- Here is the live URL : https://iron-session-eta.vercel.app/
 
 
-# Feburary-17-2025
-### wroking on project of Full Stack Job Listing App
-## making register api 
-## completed authentication 
-### Storing data in iron session
-## Completing ui of dashboard 
-## Showing user info on dashboard
-## Completing a form that creates jobs
-## Showing Jobs on dashboard
-
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
-
-# Feburary-18-2025
-### wroking on project of Full Stack Job Listing App
-## Setting Middleware
-## Adding Signout Function
-## Performing Crud on JObs
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+## Feburary-13-2025
+-- Making an App that register user and sign in
+-- Using Middleware to protect route 
+-- Using Iron session to store session in cookies
+-- Here is my Github Repositry : https://github.com/kashershahzad/iron-session-auth-middleware-prisma-mongodb
+-- Here is the live URL : https://iron-session-auth-middleware-prisma-mongodb.vercel.app/
 
 
-
-# Feburary-19-2025
-### Wroking on project of Full Stack Job Listing App
-## Complete resume upload using Multer and cloudinary
-## application session complected 
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
-
-# Feburary-20-2025
-### Wroking on project of Full Stack Job Listing App
-### Building ui of dashboard
-### Setting up Applications seen by admin
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
-
-# Feburary-21-2025
-### Wroking on project of Full Stack Job Listing App
-### Setting up landing page
-### Project Completed 
-### Making build 
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+## Feburary-14-2025
+-- Starting a new project of Full Stack Job Listing App
+-- MAking signup signin and landing page
+-- Here is my Github Repositry : https://github.com/kashershahzad/iron-session
 
 
-# Feburary-24-2025
-### Wroking on project of Full Stack Job Listing App
-### Deployed on vercel
-## Readme added
-#### Here is the live URL : https://job-listening-app.vercel.app/
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+## Feburary-17-2025
+-- wroking on project of Full Stack Job Listing App
+-- making register api 
+-- completed authentication 
+-- Storing data in iron session
+-- Completing ui of dashboard 
+-- Showing user info on dashboard
+-- Completing a form that creates jobs
+-- Showing Jobs on dashboard
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-# Feburary-25-2025
-### Wroking on project of Full Stack Job Listing App
-
-#### Here is the live URL : https://job-listening-app.vercel.app/
-#### Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
-
-
-# Feburary-26-2025
-### Wroking on my learing project
-
-#### Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
-#### Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
+## Feburary-18-2025
+-- wroking on project of Full Stack Job Listing App
+-- Setting Middleware
+-- Adding Signout Function
+-- Performing Crud on JObs
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-# Feburary-27-2025
-### Wroking on my learing project
+## Feburary-19-2025
+-- Wroking on project of Full Stack Job Listing App
+-- Complete resume upload using Multer and cloudinary
+-- application session complected 
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
-#### Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
-#### Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
+
+## Feburary-20-2025
+-- Wroking on project of Full Stack Job Listing App
+-- Building ui of dashboard
+-- Setting up Applications seen by admin
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+
+
+## Feburary-21-2025
+-- Wroking on project of Full Stack Job Listing App
+-- Setting up landing page
+-- Project Completed 
+-- Making build 
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+
+
+## Feburary-24-2025
+-- Wroking on project of Full Stack Job Listing App
+-- Deployed on vercel
+-- Readme added
+-- Here is the live URL : https://job-listening-app.vercel.app/
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+
+
+## Feburary-25-2025
+-- Wroking on project of Full Stack Job Listing App
+-- Here is the live URL : https://job-listening-app.vercel.app/
+-- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
+
+
+## Feburary-26-2025
+-- Wroking on my self-leaning project
+-- Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
+-- Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
+
+
+## Feburary-27-2025
+-- Wroking on my learing project
+-- Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
+-- Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
 
 
 ## Feburary-28-2025
 -- Wroking on Graphql
 -- Here is my Github Repositry : https://github.com/kashershahzad/graphql  (61138afce441a6d31c4cc95019357936903d48e7)
-
 -- Wroking on job listing app
 -- Here is the live URL : https://job-listening-app.vercel.app/
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app (b94dac8bcc35620b29658efff5eea61c16720518)
@@ -175,7 +156,6 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Wroking on Graphql
 -- Crud with Graphql
 -- Here is my Github Repositry : https://github.com/kashershahzad/graphql  (741171e99c2370a21cc19d2ce3a4a3c4be367f2e)
-
 
 
 ##  March-04-2025
@@ -192,7 +172,6 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Founded a templete for Ecommerence Website
 
 
-
 ##  March-06-2025
 -- Wroking on Ecommerence Website
 -- Deployed on vercel
@@ -201,14 +180,12 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-
 ##  March-07-2025
 -- Wroking on Ecommerence Website
 -- CMS Setup with contentful
 -- Hero Section and Featured section content added with CMS contentfull
 -- Here is my Github Repositry : https://github.com/kashershahzad/Ecommerce-Website-Shopify-Backend-Frontend-Headless-CMS  (1cceadc1ae27d57468877ab3f8a3c3b4a0ab5ecc)
 -- Here is the live URL : https://tachbazar.vercel.app/
-
 
 
 ##  March-10-2025
@@ -230,7 +207,6 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-
 ## March-12-2025
 -- Wroking on Ecommerence Website
 -- Shopify catagorie names integrated
@@ -250,7 +226,6 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-
 ## March-14-2025
 -- Wroking on Ecommerence Website
 -- Contentfull integrated in header
@@ -260,14 +235,12 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-
 ## March-17-2025
 -- Wroking on Ecommerence Website
 -- Contentfull integrated in footer
 -- Blog section integrated
 -- Here is my Github Repositry : https://github.com/kashershahzad/Ecommerce-Website-Shopify-Backend-Frontend-Headless-CMS  (fc42d91394598b800fd50b93faee46525de3164a)
 -- Here is the live URL : https://tachbazar.vercel.app/
-
 
 
 ## March-18-2025
@@ -279,13 +252,11 @@ https://docs.google.com/document/d/1A6ID6Shz_VLAONOj7VQG6jjAQlVA3DQY7OuLUrSRZUs/
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-
 ## March-19-2025
 -- Wroking on Ecommerence Website
 -- Wroking with search
 -- Here is my Github Repositry : https://github.com/kashershahzad/Ecommerce-Website-Shopify-Backend-Frontend-Headless-CMS  (14120ae5b83b96131c2a1f975c85dd1a05c16681)
 -- Here is the live URL : https://tachbazar.vercel.app/
-
 
 
 ## March-20-2025
