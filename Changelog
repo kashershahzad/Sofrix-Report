@@ -1,11 +1,11 @@
-## Feburary-3-2025
+## Feburary-3-2025 (Day 1)
 -- I have develop Navbar , Hero Section and 3rd Section 
 -- These sctions are completly Responsive and According to the figma file
 -- I use Next js and tailwind for Css
 -- Here is my Github Repositry https://github.com/kashershahzad/Assement-Wrok
 
 
-## Feburary-4-2025 
+## Feburary-4-2025 (Day 2)
 -- I have completed my Assememt project Today according to Figma file
 -- I made made 5 Sections
 -- I have made A Contact us page
@@ -14,14 +14,14 @@
 -- Here is the live URL : https://sofix-assement-wrok.vercel.app/
 
 
-## Feburary-5-2025
+## Feburary-5-2025 (Day 3)
 -- I have completed Crud app using tanstack 
 -- I pratice some fake Get api of tanstack
 -- Here is my Github Repositry : https://github.com/kashershahzad/tenstack_crud
 -- Here is the live URL : https://tenstack-crud.vercel.app/
 
 
-## Feburary-6-2025
+## Feburary-6-2025 (Day 4)
 -- Connecting database to backend
 -- Sending data to database and reciving Response by making a POST api
 -- Getting data from database by making a GET api
@@ -29,7 +29,7 @@
 -- Here is the live URL : https://tenstack-crud.vercel.app/
 
 
-## Feburary-7-2025
+## Feburary-7-2025 (Day 5)
 -- Completing the remaing put and delete
 -- Making a customer recode adding app using mongo db 
 -- In this app you can do
@@ -41,14 +41,14 @@
 -- Here is the live URL : https://customer-recode-mongodb.vercel.app/
 
 
-## Feburary-10-2025
+## Feburary-10-2025 (Day 6)
 -- Using authentication in project with auth js
 -- MAking a sign in page and Log in page in customer recode app
 -- Here is my Github Repositry : https://github.com/kashershahzad/authentication
 -- Here is the live URL : https://authentication-liard-iota.vercel.app/
 
 
-## Feburary-11-2025
+## Feburary-11-2025 (Day 7)
 -- Understaning signin authentication
 -- Making a session that user login with jwt token store in cookies
 -- Making a middleware that protects my route
@@ -56,13 +56,13 @@
 -- Here is the live URL : https://auth-session-middleware.vercel.app/
 
 
-## Feburary-12-2025
+## Feburary-12-2025 (Day 8)
 -- Understaning Iron session for creating session and storing cookies
 -- Here is my Github Repositry : https://github.com/kashershahzad/iron-session
 -- Here is the live URL : https://iron-session-eta.vercel.app/
 
 
-## Feburary-13-2025
+## Feburary-13-2025 (Day 9)
 -- Making an App that register user and sign in
 -- Using Middleware to protect route 
 -- Using Iron session to store session in cookies
@@ -70,13 +70,13 @@
 -- Here is the live URL : https://iron-session-auth-middleware-prisma-mongodb.vercel.app/
 
 
-## Feburary-14-2025
+## Feburary-14-2025 (Day 10)
 -- Starting a new project of Full Stack Job Listing App
 -- MAking signup signin and landing page
 -- Here is my Github Repositry : https://github.com/kashershahzad/iron-session
 
 
-## Feburary-17-2025
+## Feburary-17-2025 (Day 11)
 -- wroking on project of Full Stack Job Listing App
 -- making register api 
 -- completed authentication 
@@ -88,7 +88,7 @@
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-18-2025
+## Feburary-18-2025 (Day 12)
 -- wroking on project of Full Stack Job Listing App
 -- Setting Middleware
 -- Adding Signout Function
@@ -96,21 +96,21 @@
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-19-2025
+## Feburary-19-2025 (Day 13)
 -- Wroking on project of Full Stack Job Listing App
 -- Complete resume upload using Multer and cloudinary
 -- application session complected 
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-20-2025
+## Feburary-20-2025 (Day 14)
 -- Wroking on project of Full Stack Job Listing App
 -- Building ui of dashboard
 -- Setting up Applications seen by admin
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-21-2025
+## Feburary-21-2025 (Day 15)
 -- Wroking on project of Full Stack Job Listing App
 -- Setting up landing page
 -- Project Completed 
@@ -118,7 +118,7 @@
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-24-2025
+## Feburary-24-2025 (Day 16)
 -- Wroking on project of Full Stack Job Listing App
 -- Deployed on vercel
 -- Readme added
@@ -126,25 +126,25 @@
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-25-2025
+## Feburary-25-2025 (Day 17)
 -- Wroking on project of Full Stack Job Listing App
 -- Here is the live URL : https://job-listening-app.vercel.app/
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app
 
 
-## Feburary-26-2025
+## Feburary-26-2025 (Day 18)
 -- Wroking on my self-leaning project
 -- Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
 -- Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
 
 
-## Feburary-27-2025
+## Feburary-27-2025 (Day 19)
 -- Wroking on my learing project
 -- Here is the live URL : https://yomusick-adminpannel.vercel.app/dashboard
 -- Here is my Github Repositry : https://github.com/kashershahzad/yomusick_adminpannel
 
 
-## Feburary-28-2025
+## Feburary-28-2025 (Day 20)
 -- Wroking on Graphql
 -- Here is my Github Repositry : https://github.com/kashershahzad/graphql  (61138afce441a6d31c4cc95019357936903d48e7)
 -- Wroking on job listing app
@@ -152,13 +152,13 @@
 -- Here is my Github Repositry : https://github.com/kashershahzad/job-listening-app (b94dac8bcc35620b29658efff5eea61c16720518)
 
 
-##  March-03-2025
+##  March-03-2025 (Day 21)
 -- Wroking on Graphql
 -- Crud with Graphql
 -- Here is my Github Repositry : https://github.com/kashershahzad/graphql  (741171e99c2370a21cc19d2ce3a4a3c4be367f2e)
 
 
-##  March-04-2025
+##  March-04-2025 (Day 22)
 -- Wroking on Graphql
 -- Crud with Graphql
 -- Designed Front-end
@@ -166,13 +166,13 @@
 -- Here is the live URL : https://graphql-ruby-iota.vercel.app/
 
 
-##  March-05-2025
+##  March-05-2025 (Day 23)
 -- Wroking on Ecommerence Website
 -- Meeting with Abeer Bhai related to Ecommerence Website
 -- Founded a templete for Ecommerence Website
 
 
-##  March-06-2025
+##  March-06-2025 (Day 24)
 -- Wroking on Ecommerence Website
 -- Deployed on vercel
 -- CMS Setup with contentful
@@ -180,7 +180,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-##  March-07-2025
+##  March-07-2025 (Day 25)
 -- Wroking on Ecommerence Website
 -- CMS Setup with contentful
 -- Hero Section and Featured section content added with CMS contentfull
@@ -188,7 +188,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-##  March-10-2025
+##  March-10-2025 (Day 26)
 -- Wroking on Ecommerence Website
 -- CMS Setup with contentful integrated
 -- Shopify Store created
@@ -199,7 +199,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-11-2025
+## March-11-2025 (Day 27)
 -- Wroking on Ecommerence Website
 -- Shopify catagorie names integrated
 -- Shopify catagorie products integrated
@@ -207,7 +207,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-12-2025
+## March-12-2025 (Day 28)
 -- Wroking on Ecommerence Website
 -- Shopify catagorie names integrated
 -- Shopify catagorie products integrated
@@ -217,7 +217,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-13-2025
+## March-13-2025 (Day 29)
 -- Wroking on Ecommerence Website
 -- Shopify Checkout integrated
 -- Shopify catagorie title and products integrated
@@ -226,7 +226,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-14-2025
+## March-14-2025 (Day 30)
 -- Wroking on Ecommerence Website
 -- Contentfull integrated in header
 -- Products and collections properly added in shopify
@@ -235,7 +235,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-17-2025
+## March-17-2025 (Day 31)
 -- Wroking on Ecommerence Website
 -- Contentfull integrated in footer
 -- Blog section integrated
@@ -243,7 +243,7 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-18-2025
+## March-18-2025 (Day 32)
 -- Wroking on Ecommerence Website
 -- FAQ integrated with CMS
 -- Extra consoles removed
@@ -252,14 +252,14 @@
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-19-2025
+## March-19-2025 (Day 33)
 -- Wroking on Ecommerence Website
 -- Wroking with search
 -- Here is my Github Repositry : https://github.com/kashershahzad/Ecommerce-Website-Shopify-Backend-Frontend-Headless-CMS  (14120ae5b83b96131c2a1f975c85dd1a05c16681)
 -- Here is the live URL : https://tachbazar.vercel.app/
 
 
-## March-20-2025
+## March-20-2025 (Day 34)
 -- Wroking on Ecommerence Website
 -- Wroking Search box integrated
 -- Here is my Github Repositry : https://github.com/kashershahzad/Ecommerce-Website-Shopify-Backend-Frontend-Headless-CMS  (8ba58ef53c95bb8773a1b23912d7e39624bf8232)
